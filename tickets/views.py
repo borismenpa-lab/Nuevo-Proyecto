@@ -16,3 +16,5 @@ def demo_ticket(request):
     resultado += f"Deshacer último cambio -> {estado_final}<br>"
 
     return HttpResponse(resultado)
+
+   # cambio-2 (prueba de stash)
