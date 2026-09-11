@@ -17,5 +17,4 @@ def demo_ticket(request):
 
     return HttpResponse(resultado)
 
-   # cambio-2 (prueba de stash)
-   # cambio-1 (prueba de stash)
+ 
